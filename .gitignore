@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+
+# Environment
+.env
+
+
+# Virtual environment
+venv/
+env/
+.conda/
+
+
+# Streamlit
+.streamlit/
+
+
+# Cache
+cache/*
+!cache/.gitkeep
+
+
+# Data
+data/*.pdf
+
+
+# Model files
+*.bin
+*.pt
+*.pth
+
+
+# IDE
+.vscode/
+.idea/
+
+
+# OS
+.DS_Store
+Thumbs.db
